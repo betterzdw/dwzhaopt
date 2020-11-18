@@ -10,3 +10,7 @@ def echo():
         sys.exit(1)
     msg = sys.argv[1]
     print msg
+
+
+if __name__ == '__main__':
+    echo()

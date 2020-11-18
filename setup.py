@@ -16,7 +16,7 @@ def read(f_name):
 
 setup(
     name="dwzhaopt",
-    version="0.0.1",
+    version="0.0.2",
     author="dwzhao",
     author_email="flybx@foxmail.com",
     description="An demonstration of how to create, test, document and publish to pypi.org.",
