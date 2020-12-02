@@ -1,2 +1,4 @@
 /.idea
 /dwzhaopt/*.pyc
+/tests/*.pyc
+/docs/build/html
