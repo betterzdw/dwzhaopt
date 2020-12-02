@@ -11,10 +11,10 @@ Subpackages
 Submodules
 ----------
 
-dwzhaopt.echo module
---------------------
+dwzhaopt.script module
+----------------------
 
-.. automodule:: dwzhaopt.echo
+.. automodule:: dwzhaopt.script
     :members:
     :undoc-members:
     :show-inheritance:

@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding:utf-8 -*-
 
-# 消息回声脚本
+# 安装pip包后的工具脚本
 
 import sys
 
